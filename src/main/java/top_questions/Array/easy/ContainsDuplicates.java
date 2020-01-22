@@ -1,4 +1,4 @@
-package top_questions.Array;
+package top_questions.Array.easy;
 /*
     Given an array of integers, find if the array contains any duplicates.
 

@@ -1,6 +1,5 @@
-package top_questions.Array;
+package top_questions.Array.easy;
 
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
